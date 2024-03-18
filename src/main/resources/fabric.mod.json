@@ -19,16 +19,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-			"turniplabs.examplemod.ExampleMod"
+      "wyspr.examplemod.ExampleMod"
     ],
 		"beforeGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+          "wyspr.examplemod.ExampleMod"
 		],
 		"afterGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+          "wyspr.examplemod.ExampleMod"
 		],
 		"recipesReady": [
-			"turniplabs.examplemod.ExampleMod"
+          "wyspr.examplemod.ExampleMod"
 		]
 	},
   "mixins": [
